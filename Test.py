@@ -1,0 +1,2 @@
+n = 'test'
+print(n)
