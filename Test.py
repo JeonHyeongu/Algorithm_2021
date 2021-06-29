@@ -1,2 +1,0 @@
-n = 'test'
-print(n)
